@@ -2,3 +2,4 @@
 work/
 .superdesign/
 node_modules/
+.vercel
